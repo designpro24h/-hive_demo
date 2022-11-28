@@ -1,5 +1,10 @@
 # hive_demo
+This is a demo App Flutter project using Hive as the local database.
+	1.HomeScreen
+	2.AddInfoScreen
+	3.UpdateInfoScreen
 
+![alt text](https://github.com/designpro24h/-hive_demo/blob/main/screenshort/flutter_hive.png)
 A new Flutter project.
 
 ## Getting Started
