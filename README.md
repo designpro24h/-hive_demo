@@ -7,11 +7,13 @@ This is a demo App Flutter project using Hive as the local database.
 ![alt text](https://github.com/designpro24h/-hive_demo/blob/main/screenshort/flutter_hive.png)
 A new Flutter project.
 #Video Youtube
- <iframe width="560" height="315"
-src="https://youtu.be/w6-o8bdtjPE" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+<div align="left">
+      <a href="https://www.youtube.com/watch?v=5w6-o8bdtjPE">
+         <img src="https://img.youtube.com/vi/w6-o8bdtjPE/0.jpg" style="width:100%;">
+      </a>
+</div>
+
+
 
 ## Getting Started
 
