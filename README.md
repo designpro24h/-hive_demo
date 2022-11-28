@@ -6,8 +6,12 @@ This is a demo App Flutter project using Hive as the local database.
 
 ![alt text](https://github.com/designpro24h/-hive_demo/blob/main/screenshort/flutter_hive.png)
 A new Flutter project.
-#Video Youtube
-<iframe width="852" height="480" src="https://www.youtube.com/embed/w6-o8bdtjPE" title="Flutter Hive - Local Storage (FLUTTER Tutorial)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Video Youtube
+<div align="left">
+      <a href="https://www.youtube.com/watch?v=w6-o8bdtjPE">
+         <img src="https://img.youtube.com/w6-o8bdtjPE/0.jpg" style="width:100%;">
+      </a>
+</div>
 
 
 ## Getting Started
